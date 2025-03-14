@@ -22,5 +22,6 @@ class Arry2D{
         }
     
         printarry(arry);
+        in.close();
     }
 }
